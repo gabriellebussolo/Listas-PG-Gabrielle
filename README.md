@@ -1,6 +1,6 @@
 # Listas-PG-Gabrielle
 
-Nome: Gabrielle Bussolo da Silva
+Nome: Gabrielle Bussolo
 
 Esse repositório contém as listas de exercícios da disciplina de Processamento Gráfico realizada em 2024/1.
 
