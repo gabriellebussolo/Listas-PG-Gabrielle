@@ -23,13 +23,12 @@ Para executar os códigos, basta baixar o repositório e abrí-lo, de preferênc
 
 Cada Lista possui um diretório para cada exercício, com o arquivo .cpp que será executado.
 
-<img width="200" alt="imagem do diretório do projeto com as pastas específicas de cada exercício" src="https://github.com/gabriellebussolo/PG-Gabrielle/assets/86787630/4f3e893c-e606-40c4-9ebd-b1f68bad0e4b">
+<img width="200" alt="imagem do diretório do projeto com as pastas específicas de cada exercício" src="https://github.com/gabriellebussolo/Listas-PG-Gabrielle/assets/86787630/7900ed4f-afe1-414f-b13a-047fade1314b">
 
 Dessa forma, para executar cada exercício, deve-se ajustar o arquivo ``tasks.json`` com o número do exercício que deseja-se executar:
 
-<img width="700" alt="imagem demonstrando a parte do código que deve ser modificada para executar cada exercício" src="https://github.com/gabriellebussolo/PG-Gabrielle/assets/86787630/c0622d54-a12c-4043-b43a-32a411d555e9">
+<img width="700" alt="imagem demonstrando a parte do código que deve ser modificada para executar cada exercício" src="https://github.com/gabriellebussolo/Listas-PG-Gabrielle/assets/86787630/755f61dd-50b6-4e6a-9ae7-6bf57eab4b7f">
 
 Depois de ajustar o arquivo ``tasks.json`` com o exercício específico, basta clicar no botão ``Run C/C++ file``:
 
-<img width="152" alt="imagem demonstrando o botão Run C/C++ file" src="https://github.com/gabriellebussolo/PG-Gabrielle/assets/86787630/c58395ea-457c-4ade-a4b2-aae7ffeed71b">
-
+<img width="152" alt="imagem demonstrando o botão Run C/C++ file" src="https://github.com/gabriellebussolo/Listas-PG-Gabrielle/assets/86787630/549b59ff-2ca1-40ed-a42b-00212262c1fc">
