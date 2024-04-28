@@ -1,0 +1,35 @@
+{
+ "version": "2.0.0",
+ "tasks": [
+    {
+        "type": "cppbuild",
+        "label": "C/C++: clang++ build active file",
+        "command": "/usr/bin/clang++",
+        "args": [
+            "-std=c++17",
+            "-fdiagnostics-color=always",
+            "-Wall",
+            "-g",
+            "-I${workspaceFolder}/dependencies/include",
+            "-L${workspaceFolder}/dependencies/library",
+            "${workspaceFolder}/dependencies/library/libglfw.3.4.dylib",
+            "${workspaceFolder}/exercicio1/*.cpp",//mudar essa linha com a pasta do exercicio
+            "${workspaceFolder}/glad.c",
+            "-o",
+            "${workspaceFolder}/app",
+            "-Wno-deprecated"
+        ],
+        "options": {
+            "cwd": "${fileDirname}"
+        },
+        "problemMatcher": [
+            "$gcc"
+        ],
+        "group": {
+            "kind": "build",
+            "isDefault": true
+        },
+        "detail": "compiler: /usr/bin/clang++"
+    }
+]
+}
