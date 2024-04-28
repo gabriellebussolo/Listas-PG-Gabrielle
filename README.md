@@ -1,4 +1,7 @@
 # Listas-PG-Gabrielle
+
+Gabrielle Bussolo da Silva
+
 Esse repositório contém as listas de exercícios da disciplina de Processamento Gráfico realizada em 2024/1.
 
 ## Especificação
